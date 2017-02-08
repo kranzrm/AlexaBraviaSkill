@@ -1,0 +1,7 @@
+CommandIntent please {Action}
+CommandIntent {Action} my t. v.
+CommandIntent {Action} my television
+CommandIntent {Action} my bravia
+CommandIntent to press {Action}
+CommandIntent to {Action}
+CommandIntent {Action}

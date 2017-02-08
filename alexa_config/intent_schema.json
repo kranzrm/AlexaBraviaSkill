@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "CommandIntent",
+      "slots": [
+      {
+        "name" : "Action",
+        "type": "LIST_OF_ACTIONS"
+      }
+     ]
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
