@@ -20,7 +20,7 @@ This project allows a user to control a Sony Bravia TV with Amazon Alexa voice c
 
 There are four main components
 
-- Custom Amazon Alexa Skill 'alexa_config'
-- AWS Lambda function 'lambda_function'
+- Custom Amazon Alexa Skill `alexa_config`
+- AWS Lambda function `lambda_function`
 - AWS IOT Setup (*No Code Required*)
-- Python MQTT Client 'mqtt_client'
+- Python MQTT Client `mqtt_client`
